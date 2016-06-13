@@ -14,7 +14,7 @@
 		public function testName()
 		{
 			$mike = $this->test->getName();
-			$this->assertTrue($mike == "Mike");
+			$this->assertTrue($mike == "Mi2ke");
 		}
 	}
 ?>
